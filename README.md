@@ -23,5 +23,8 @@
 
 - [【TypeScript】API・DB不要！JSONファイルで一覧ページを作る方法](https://zenn.dev/soma2367/articles/c8300db91b55a7)
 - [【Laravel初心者向け】エラーをAIに聞く前に！Tinkerで自分で原因を探る方法](https://zenn.dev/soma2367/articles/a059ec8117c8fc)
+- [【Laravel】LaravelとJSライブラリを連携させる方法 - ApexChartsで学ぶデータの流れ](https://zenn.dev/soma2367/articles/616575ee4d1f75)
+- [【Laravel】ステータス機能実装はEnum型にお任せあれ！](https://zenn.dev/soma2367/articles/eaced081cbadba)
+
 
 📚 [Zennで全ての記事を見る](https://zenn.dev/soma2367)
