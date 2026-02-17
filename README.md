@@ -15,8 +15,8 @@
 <!-- GitHub username-->
 ## 🏃‍♂️ Activities
 <div align="left"> 
-  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=Soma2367&theme=vue-dark&show_icons=true&count_private=true" />
-  <img alt="Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soma2367&theme=vue-dark&layout=compact" />
+  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats-seven-jet-32.vercel.app/api?username=Soma2367&theme=vue-dark&show_icons=true&count_private=true" />
+  <img alt="Top Languages" height="170px" src="https://github-readme-stats-seven-jet-32.vercel.app/api/top-langs/?username=Soma2367&theme=vue-dark&layout=compact" />
 </div>
 
 ## 📝 Blog Posts
