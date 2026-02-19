@@ -26,6 +26,6 @@
 - [【Laravel】LaravelとJSライブラリを連携させる方法 - ApexChartsで学ぶデータの流れ](https://zenn.dev/soma2367/articles/616575ee4d1f75)
 - [【Laravel】ステータス機能実装はEnum型でif分岐を解消！](https://zenn.dev/soma2367/articles/eaced081cbadba)
 - [【Laravel】「えっ、数値じゃないじゃん！」decimal型が文字列になる理由](https://zenn.dev/soma2367/articles/7168c1259016cd)
-- [【TypeScript】配列からUnion型を作りセレクトボックス実装](https://zenn.dev/soma2367/articles/3b098df21cc962)
+- [【TypeScript】配列からUnion型を生成して、型安全なセレクトボックスを実装](https://zenn.dev/soma2367/articles/3b098df21cc962)
   
 📚 [Zennで全ての記事を見る](https://zenn.dev/soma2367)
