@@ -27,5 +27,6 @@
 - [【Laravel】ステータス機能実装はEnum型でif分岐を解消！](https://zenn.dev/soma2367/articles/eaced081cbadba)
 - [【Laravel】「えっ、数値じゃないじゃん！」decimal型が文字列になる理由](https://zenn.dev/soma2367/articles/7168c1259016cd)
 - [【TypeScript】配列からUnion型を生成して、型安全なセレクトボックスを実装](https://zenn.dev/soma2367/articles/3b098df21cc962)
-  
+- [【React/Next.js】ReactでGemini APIを叩く前に知っておきたいHTTP通信の基礎](https://zenn.dev/soma2367/articles/3978cadc6597e6)
+ 
 📚 [Zennで全ての記事を見る](https://zenn.dev/soma2367)
